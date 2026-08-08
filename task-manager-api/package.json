@@ -1,0 +1,19 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^8.17.0"
+  }
+}
