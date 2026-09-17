@@ -1,0 +1,32 @@
+[
+  {
+    "id": "task-1",
+    "title": "Write report",
+    "description": "Draft summary",
+    "dueDate": "2026-08-22",
+    "priority": "normal",
+    "status": "completed",
+    "createdAt": "2026-08-22T15:19:22.577Z",
+    "updatedAt": "2026-09-17T15:16:03.843Z"
+  },
+  {
+    "id": "task-1",
+    "title": "open task file",
+    "description": "in task file we are store important information",
+    "dueDate": "2026-11-11T00:00:00.000Z",
+    "priority": "high",
+    "status": "in-progress",
+    "createdAt": "2026-09-17T15:15:31.849Z",
+    "updatedAt": "2026-09-17T15:15:31.849Z"
+  },
+  {
+    "id": "task-2",
+    "title": "new taks",
+    "description": "new task is temporiry task",
+    "dueDate": "2026-12-10T00:00:00.000Z",
+    "priority": "high",
+    "status": "in-progress",
+    "createdAt": "2026-09-17T15:21:27.808Z",
+    "updatedAt": "2026-09-17T15:21:27.808Z"
+  }
+]
