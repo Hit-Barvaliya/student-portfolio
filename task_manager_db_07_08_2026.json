@@ -1,0 +1,47 @@
+{
+  "collections": {
+    "task_manager_db.tasks": {
+      "ns": "task_manager_db.tasks",
+      "jsonSchema": {
+        "bsonType": "object",
+        "required": [
+          "_id",
+          "createdAt",
+          "description",
+          "dueDate",
+          "priority",
+          "status",
+          "title",
+          "updatedAt"
+        ],
+        "properties": {
+          "_id": {
+            "bsonType": "objectId"
+          },
+          "createdAt": {
+            "bsonType": "date"
+          },
+          "description": {
+            "bsonType": "string"
+          },
+          "dueDate": {
+            "bsonType": "date"
+          },
+          "priority": {
+            "bsonType": "string"
+          },
+          "status": {
+            "bsonType": "string"
+          },
+          "title": {
+            "bsonType": "string"
+          },
+          "updatedAt": {
+            "bsonType": "date"
+          }
+        }
+      }
+    }
+  },
+  "relationships": []
+}
